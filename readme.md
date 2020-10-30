@@ -1,6 +1,6 @@
-# POC
+# Introdução
 
-O componente que será importado é uma página menu de investimentos com seus próprio stack do react-navigation
+O componente que será importado é um menu da área de investimentos.
 
 ## Passos
 
