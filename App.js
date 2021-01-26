@@ -13,7 +13,7 @@ function HomeScreen() {
   );
 }
 
-function SettingsScreen() {
+function StepScreen() {
   return (
     <Home
       id={1}
@@ -34,7 +34,7 @@ export default function App() {
     <NavigationContainer>
       <Tab.Navigator>
         <Tab.Screen name="Home" component={HomeScreen} />
-        <Tab.Screen name="Settings" component={SettingsScreen} />
+        <Tab.Screen name="Investimentos" component={StepScreen} />
       </Tab.Navigator>
     </NavigationContainer>
   );
